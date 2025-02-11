@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deep_linking",
+    "package_name": "app.salsayou.android",
     "sha256_cert_fingerprints":
     ["F0:8C:42:AF:4A:53:F5:E8:CD:6A:76:F3:E8:DB:4C:E2:C7:2E:74:5C:62:F5:62:14:94:54:B1:1D:07:7C:53:A1"]
   }
